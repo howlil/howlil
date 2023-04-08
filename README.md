@@ -1,4 +1,4 @@
-# 👋 Hi My name is aul
+# 👋 Hi My name is Rahul
 
 Iam a first year Information Technology student at UNAND. I am highly eager to learn about anything computer science. I major in Information System and interested in web development, especially Backend Stuff.
 
