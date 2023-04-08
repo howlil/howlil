@@ -2,9 +2,6 @@
 
 Iam a first year Information Technology student at UNAND. I am highly eager to learn about anything computer science. I major in Information System and interested in web development, especially Backend Stuff.
 
-## 🧾 Featured Project
-
-
 ## 💻 My Tech Stack
 
 ### Programming Language
@@ -24,9 +21,6 @@ Iam a first year Information Technology student at UNAND. I am highly eager to l
 ### Extras
  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)
-
-### I'm Currently Learning These!
-
 
 
 ## ✨ Find me on social media:
