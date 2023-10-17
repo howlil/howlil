@@ -2,18 +2,8 @@
 
 Iam a first year Information Technology student at UNAND. I am highly eager to learn about anything computer science. I major in Information System and interested in web development, especially Backend Stuff.
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true" />
-</picture>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howlil)](https://github.com/holil/github-readme-stats)
+[![Howlil's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&theme=dark#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howlil)](https://github.com/howlil/github-readme-stats)
 
 ## 💻 My Tech Stack
 
