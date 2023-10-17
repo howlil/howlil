@@ -27,14 +27,13 @@ Iam a first year Information Technology student at UNAND. I am highly eager to l
  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🏆 GitHub Stats
-[![Howlil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=howlil&theme=nightowl)](https://github.com/howlil/github-readme-activity-graph)
+[![Howlil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=howlil&theme=tokyonight)](https://github.com/howlil/github-readme-activity-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=howlil&theme=tokyonight)](https://github.com/howlil/github-profile-trophy)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/howlil?cardType=level&theme=nightowl&preferLogin=false)](https://git.io/awesome-stats-card)  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howlil&theme=dracula)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=howlil&theme=nightowl)](https://git.io/streak-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/howlil?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howlil&theme=tokyonight&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=howlil&theme=tokyonight)](https://git.io/streak-stats)
 
 ## ✨ Find me on social media:
   <p align = "center">
