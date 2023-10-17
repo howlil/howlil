@@ -13,6 +13,8 @@ Iam a first year Information Technology student at UNAND. I am highly eager to l
   />
   <img src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true" />
 </picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howlil)](https://github.com/holil/github-readme-stats)
+
 ## 💻 My Tech Stack
 
 ### Programming Language
