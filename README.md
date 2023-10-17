@@ -32,7 +32,7 @@ Iam a first year Information Technology student at UNAND. I am highly eager to l
 [![trophy](https://github-profile-trophy.vercel.app/?username=howlil&theme=tokyonight)](https://github.com/howlil/github-profile-trophy)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/howlil?cardType=level&theme=nightowl&preferLogin=false)](https://git.io/awesome-stats-card)  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howlil&hide=javascript,css,scss,html&theme=nighthowl)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howlil&theme=dracula)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=howlil&theme=nightowl)](https://git.io/streak-stats)
 
