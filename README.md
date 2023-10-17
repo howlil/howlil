@@ -2,7 +2,17 @@
 
 Iam a first year Information Technology student at UNAND. I am highly eager to learn about anything computer science. I major in Information System and interested in web development, especially Backend Stuff.
 
- ![Howlil's GitHub stats](https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&theme=transparent)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true" />
+</picture>
 ## 💻 My Tech Stack
 
 ### Programming Language
