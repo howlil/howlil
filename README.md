@@ -31,8 +31,10 @@ Iam a first year Information Technology student at UNAND. I am highly eager to l
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=howlil&theme=tokyonight)](https://github.com/howlil/github-profile-trophy)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/howlil?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howlil&theme=tokyonight&layout=compact)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/howlil?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)  
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=howlil&theme=tokyonight)](https://git.io/streak-stats)
 
 ## ✨ Find me on social media:
