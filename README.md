@@ -25,6 +25,8 @@ Iam a first year Information Technology student at UNAND. I am highly eager to l
  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)
 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 
 ## ✨ Find me on social media:
   <p align = "center">
