@@ -27,7 +27,7 @@ Iam a first year Information Technology student at UNAND. I am highly eager to l
  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🏆 GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=howlil&theme=nightowl)
+[![Howlil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=howlil&theme=nightowl)](https://github.com/howlil/github-readme-activity-graph)
 
 ![Howlil's GitHub stats](https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&theme=nightowl)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=howlil&theme=nightowl)](https://git.io/streak-stats)
