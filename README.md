@@ -4,8 +4,9 @@ Iam a first year Information Technology student at UNAND. I am highly eager to l
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=howlil&theme=moonlight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howlil&layout=compact)
 ![Howlil's GitHub stats](https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 
 ## 💻 My Tech Stack
 
