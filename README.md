@@ -2,11 +2,6 @@
 
 Iam a first year Information Technology student at UNAND. I am highly eager to learn about anything computer science. I major in Information System and interested in web development, especially Backend Stuff.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=howlil&theme=moonlight)
-
-![Howlil's GitHub stats](https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 
 ## 💻 My Tech Stack
 
@@ -31,8 +26,11 @@ Iam a first year Information Technology student at UNAND. I am highly eager to l
  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)
 
+## 🏆 GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=howlil&theme=nightowl)
 
-
+![Howlil's GitHub stats](https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&theme=nightowl)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=howlil&theme=nightowl)](https://git.io/streak-stats)
 
 ## ✨ Find me on social media:
   <p align = "center">
