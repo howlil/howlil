@@ -1,7 +1,6 @@
-# 👋 Hi My name is ul
 
-Iam a first year Information Technology student at UNAND. I am highly eager to learn about anything computer science. I major in Information System and interested in web development, especially Backend Stuff.
-
+<h1 align="center">Hi 👋, I'm howlil</h1>
+<h3 align="center">A passionate Web Developer from Indonesia</h3>
 
 ## 💻 My Tech Stack
 
@@ -29,7 +28,7 @@ Iam a first year Information Technology student at UNAND. I am highly eager to l
 ## 🏆 GitHub Stats
 
 <div align="center">
- ![](https://komarev.com/ghpvc/?username=howlil&style=for-the-badge)
+    <img src="https://komarev.com/ghpvc/?username=howlil&label=Profile%20views&color=0e75b6&style=flat" alt="howlil" /> 
 </div>
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7006E&center=true&vCenter=true&width=435&lines=Mhd+Ulil+Abshar;2211521003;Andalas+University" alt="Typing SVG"/></a>
@@ -64,3 +63,18 @@ Iam a first year Information Technology student at UNAND. I am highly eager to l
       <a href="https://open.spotify.com/user/z4ev34sfeu2es0va2z906y0cx " target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
       <a href="mailto:mhdulilabshar27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=howlil" alt="howlil" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=howlil&show_icons=true&locale=en&layout=compact" alt="howlil" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&locale=en" alt="howlil" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=howlil&" alt="howlil" /></p>
