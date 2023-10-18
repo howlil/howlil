@@ -37,7 +37,12 @@ Iam a first year Information Technology student at UNAND. I am highly eager to l
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=howlil&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=howlil)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/howlil/github-readme-stats">
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=howlil&theme=tokyonight)](https://git.io/streak-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## ✨ Find me on social media:
   <p align = "center">
