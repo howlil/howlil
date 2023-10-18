@@ -38,11 +38,17 @@ Iam a first year Information Technology student at UNAND. I am highly eager to l
 [![GitHub Streak](https://streak-stats.demolab.com/?user=howlil&theme=tokyonight)](https://git.io/streak-stats)
 
 <a href="https://github.com/howlil/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/howlil/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howlil&theme=tokyonight&layout=compact" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howlil&theme=tokyonight&layout=compact" />
 </a>
+<a href="https://git.io/streak-stats">
+  <img  align="center" src="https://streak-stats.demolab.com/?user=howlil&theme=tokyonigh" />
+</a>
+
+
+
 
 ## ✨ Find me on social media:
   <p align = "center">
