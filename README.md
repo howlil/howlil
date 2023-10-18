@@ -40,8 +40,8 @@ Iam a first year Information Technology student at UNAND. I am highly eager to l
 <a href="https://github.com/howlil/github-readme-stats">
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=howlil&theme=tokyonight)](https://git.io/streak-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/howlil/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howlil&theme=tokyonight&layout=compact" />
 </a>
 
 ## ✨ Find me on social media:
