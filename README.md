@@ -39,18 +39,17 @@ Iam a first year Information Technology student at UNAND. I am highly eager to l
         <br>
     </a>
 </div>
-<div>
+<div align ="center">
      <a href="https://github.com/howlil/github-readme-stats">
-        <img height=200 width = 250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howlil&theme=tokyonight&layout=compact" />
+        <img height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howlil&theme=tokyonight&layout=compact" />
     </a>
 </div>
 
 <div align ="center">
-         <a href = "https://github.com/howlil/">
-           <img height=200 width = 250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howlil&theme=tokyonight&layout=compact" />
-          <img   align="center" src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&theme=tokyonight" />
+    <a href = "https://github.com/howlil/">
+         <img   align="center" src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&theme=tokyonight" />
          <img align="center" src="https://streak-stats.demolab.com/?user=howlil&theme=tokyonight" />
-      </a>
+    </a>
 </div>
 
 
