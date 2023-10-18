@@ -39,27 +39,25 @@ Iam a first year Information Technology student at UNAND. I am highly eager to l
         <br>
     </a>
 </div>
-    <a href="https://github.com/howlil/github-readme-stats">
-     <img height=200 width = 250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howlil&theme=tokyonight&layout=compact" />
+<div>
+     <a href="https://github.com/howlil/github-readme-stats">
+        <img height=200 width = 250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howlil&theme=tokyonight&layout=compact" />
     </a>
-<div align ="center">
-         <a href = "https://github.com/howlil/">
-          <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&theme=tokyonight" />
-         <img height=200 width = 250 align="center" src="https://streak-stats.demolab.com/?user=howlil&theme=tokyonight" />
-      </a>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=howlil&theme=tokyonight)](https://git.io/streak-stats)
-
-
-
-
+<div align ="center">
+         <a href = "https://github.com/howlil/">
+           <img height=200 width = 250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howlil&theme=tokyonight&layout=compact" />
+          <img   align="center" src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&theme=tokyonight" />
+         <img align="center" src="https://streak-stats.demolab.com/?user=howlil&theme=tokyonight" />
+      </a>
+</div>
 
 
 ## ✨ Find me on social media:
   <p align = "center">
-<a href="https://www.linkedin.com/in/mhdulilabshar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/mraulabsr " target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://open.spotify.com/user/z4ev34sfeu2es0va2z906y0cx " target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="mailto:mhdulilabshar27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+      <a href="https://www.linkedin.com/in/mhdulilabshar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+      <a href="https://www.instagram.com/mraulabsr " target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+      <a href="https://open.spotify.com/user/z4ev34sfeu2es0va2z906y0cx " target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
+      <a href="mailto:mhdulilabshar27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
