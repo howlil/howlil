@@ -28,7 +28,7 @@ Iam a first year Information Technology student at UNAND. I am highly eager to l
 
 ## 🏆 GitHub Stats
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7006E&center=true&vCenter=true&width=435&lines=Ahmad+Nadil;13521024;Andalas+University" alt="Typing SVG"/></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7006E&center=true&vCenter=true&width=435&lines=Mhd+Ulil+Abshar;2211521003;Andalas+University" alt="Typing SVG"/></a>
 </div>
 
 <div align="center">
@@ -40,11 +40,11 @@ Iam a first year Information Technology student at UNAND. I am highly eager to l
     </a>
 </div>
     <a href="https://github.com/howlil/github-readme-stats">
-        <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&theme=tokyonight" />
+     <img height=200 width = 250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howlil&theme=tokyonight&layout=compact" />
     </a>
-< div align = " center ">
+<div align ="center">
          <a href = "https://github.com/howlil/">
-         <img height=200 width = 250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howlil&theme=tokyonight&layout=compact" />
+          <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&theme=tokyonight" />
          <img height=200 width = 250 align="center" src="https://streak-stats.demolab.com/?user=howlil&theme=tokyonight" />
       </a>
 </div>
