@@ -30,6 +30,18 @@ Iam a first year Information Technology student at UNAND. I am highly eager to l
 [![Howlil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=howlil&theme=nightowl)](https://github.com/howlil/github-readme-activity-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=howlil&theme=tokyonight)](https://github.com/howlil/github-profile-trophy)
+<div align="center">
+    <h1>Stats</h1>
+    <a href = "https://github.com/howlil/">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=howlil&theme=nightowl" />
+        <br>
+        <img src="https://github-profile-trophy.vercel.app/?username=howlil&column=-1&theme=tokyonight" />
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api?username=howlil&hide=issues&count_private=true&show_icons=true&theme=tokyonight" height=200/>
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=howlil&layout=compact&theme=tokyonight&langs_count=10" width=300/>
+    </a>
+</div>
 
 <a href="https://github.com/howlil/github-readme-stats">
   <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&theme=tokyonight" />
