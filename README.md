@@ -28,7 +28,7 @@
 ## 🏆 GitHub Stats
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=howlil&label=Profile%20views&color=0e75b6&style=flat" alt="howlil" /> 
+    <img src="https://komarev.com/ghpvc/?username=howlil&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="howlil" /> 
 </div>
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7006E&center=true&vCenter=true&width=435&lines=Mhd+Ulil+Abshar;2211521003;Andalas+University" alt="Typing SVG"/></a>
@@ -44,14 +44,14 @@
 </div>
 <div align ="center">
      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howlil&theme=tokyonight&layout=compact" />
+      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=howlil&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="howlil" />
     </a>
 </div>
 
 <div align ="center">
     <a href = "https://github.com/howlil/">
-         <img   align="center" src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&theme=tokyonight" />
-         <img align="center" src="https://streak-stats.demolab.com/?user=howlil&theme=tokyonight" />
+         <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&locale=en&theme=tokyonight" alt="howlil" /></p>
+         <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=howlil&theme=tokyonight" alt="howlil" /></p>
     </a>
 </div>
 
@@ -66,15 +66,3 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=howlil" alt="howlil" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=howlil&show_icons=true&locale=en&layout=compact" alt="howlil" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&locale=en" alt="howlil" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=howlil&" alt="howlil" /></p>
