@@ -37,7 +37,7 @@ Iam a first year Information Technology student at UNAND. I am highly eager to l
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=howlil&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Howlil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?howlil=ffflabs&theme=tokyonight)](https://github.com/howlil/github-readme-stats)
+[![Howlil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?howlil&theme=tokyonight)](https://github.com/howlil/github-readme-stats)
 
 ## ✨ Find me on social media:
   <p align = "center">
