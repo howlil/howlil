@@ -27,29 +27,26 @@ Iam a first year Information Technology student at UNAND. I am highly eager to l
  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🏆 GitHub Stats
-[![Howlil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=howlil&theme=nightowl)](https://github.com/howlil/github-readme-activity-graph)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=howlil&theme=tokyonight)](https://github.com/howlil/github-profile-trophy)
 <div align="center">
-    <h1>Stats</h1>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7006E&center=true&vCenter=true&width=435&lines=Ahmad+Nadil;13521024;Andalas+University" alt="Typing SVG"/></a>
+</div>
+
+<div align="center">
     <a href = "https://github.com/howlil/">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=howlil&theme=nightowl" />
         <br>
         <img src="https://github-profile-trophy.vercel.app/?username=howlil&column=-1&theme=tokyonight" />
         <br>
-        <img src="https://github-readme-stats.vercel.app/api?username=howlil&hide=issues&count_private=true&show_icons=true&theme=tokyonight" height=200/>
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=howlil&layout=compact&theme=tokyonight&langs_count=10" width=300/>
     </a>
 </div>
-
-<a href="https://github.com/howlil/github-readme-stats">
-  <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/howlil/convoychat">
-  <img   height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howlil&theme=tokyonight&layout=compact" />
-</a>
-
+< div align = " center ">
+      <a href="https://github.com/howlil/github-readme-stats">
+        <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&theme=tokyonight" />
+      </a>
+      <a href="https://github.com/howlil/convoychat">
+        <img   height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howlil&theme=tokyonight&layout=compact" />
+      </a>
+</div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=howlil&theme=tokyonight)](https://git.io/streak-stats)
 
