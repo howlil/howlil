@@ -1,5 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm howlil</h1>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7006E&center=true&vCenter=true&width=435&lines=Mhd+Ulil+Abshar;2211521003;Andalas+University" alt="Typing SVG"/></a>
+</div>
+
 <h3 align="center">A passionate Web Developer from Indonesia</h3>
 
 ## 💻 My Tech Stack
@@ -30,10 +34,6 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=howlil&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="howlil" /> 
 </div>
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7006E&center=true&vCenter=true&width=435&lines=Mhd+Ulil+Abshar;2211521003;Andalas+University" alt="Typing SVG"/></a>
-</div>
-
 <div align="center">
     <a href = "https://github.com/howlil/">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=howlil&theme=nightowl" />
