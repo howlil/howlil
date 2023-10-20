@@ -56,7 +56,7 @@
     </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/howlil/howlil/snake/github-contribution-grid-snake-dark.svg" width="100%">
+
 
 ## ✨ Find me on social media:
   <p align = "center">
