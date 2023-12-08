@@ -49,7 +49,7 @@
 </div>
 <div align ="center">
      <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=howlil&theme=tokyonight&show_icons=true&locale=en" alt="howlil" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=howlil&theme=tokyonight&show_icons=true&locale=en&layout=compact&langs_count=10" alt="howlil" />
  </a>
 </div>
 
