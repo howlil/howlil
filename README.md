@@ -49,8 +49,8 @@
 </div>
 <div align ="center">
      <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=howlil&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="howlil" />
-    </a>
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=howlil&theme=tokyonight&show_icons=true&locale=en&layout=default" alt="howlil" />
+ </a>
 </div>
 
 <div align ="center">
