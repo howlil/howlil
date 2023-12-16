@@ -34,30 +34,35 @@
  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🏆 GitHub Stats
-
-<div align="center">
+<div align="center" margin-top="10px">
     <img src="https://komarev.com/ghpvc/?username=howlil&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="howlil" /> 
 </div>
-<div align="center">
-    <a href = "https://github.com/howlil/">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=howlil&theme=nightowl" />
         <br>
-        <img src="https://github-profile-trophy.vercel.app/?username=howlil&column=-1&theme=tokyonight" />
+<div align="center"  margin-top="10px">
+    <a href = "https://github.com/howlil/">
+                <img src="https://github-profile-trophy.vercel.app/?username=howlil&column=-1&theme=tokyonight" />
+        <br>
+        <br>
+             <img src="https://github-readme-activity-graph.vercel.app/graph?username=howlil&theme=nightowl" />
+        <br>
         <br>
     </a>
 </div>
-<div align ="center">
+<br>
+<div align ="center" margin-top="10px">
      <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=howlil&theme=tokyonight&show_icons=true&locale=en&layout=compact&langs_count=10" alt="howlil" />
+  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs?username=howlil&theme=tokyonight&show_icons=true&locale=en&layout=compact&langs_count=10" alt="howlil" />
  </a>
 </div>
-
-<div align ="center">
+ <br>
+<div align ="center "  margin-top="10px">
     <a href = "https://github.com/howlil/">
-         <p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=howlil&&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=en&theme=tokyonight" alt="howlil" /></p>
-         <p><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=howlil&theme=tokyonight" alt="howlil" /></p>
+         <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=tru&include_all_commits=true&count_private=true&locale=en&theme=tokyonight" alt="howlil" />
+       <img  height="200em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=howlil&theme=tokyonight" alt="howlil" />
     </a>
 </div>
+ <br>
+
 
 
 
