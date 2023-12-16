@@ -54,8 +54,8 @@
 
 <div align ="center">
     <a href = "https://github.com/howlil/">
-         <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&locale=en&theme=tokyonight" alt="howlil" /></p>
-         <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=howlil&theme=tokyonight" alt="howlil" /></p>
+         <p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=howlil&&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=en&theme=tokyonight" alt="howlil" /></p>
+         <p><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=howlil&theme=tokyonight" alt="howlil" /></p>
     </a>
 </div>
 
