@@ -6,6 +6,7 @@
 </div>
 
 <h3 align="center">A passionate Web Developer from Indonesia</h3>
+<p>As a second-year Information Systems student, I'm deeply passionate about programming,and design. My focus lies in expanding my expertise in machine learning and web programming. Besides, I devote my free time to engaging in graphic design projects. With a meticulous eye for detail and a penchant for crafting visually captivating designs, I thrive on embracing fresh challenges that broaden my skill set. I look forward to the exciting paths my passion for technology and design will pave for me in the future.</p>
 
 ## 💻 My Tech Stack
 
