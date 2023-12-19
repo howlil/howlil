@@ -5,7 +5,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7006E&center=true&vCenter=true&width=435&lines=Mhd+Ulil+Abshar;2211521003;Andalas+University" alt="Typing SVG"/></a>
 </div>
 
-<h3 align="center">A passionate Web Developer from Indonesia</h3>
+<h3 align="center">Web Developer from Indonesia</h3>
 <p>As a second-year Information Systems student, I'm deeply passionate about programming,and design. My focus lies in expanding my expertise in machine learning and web programming. Besides, I devote my free time to engaging in graphic design projects. With a meticulous eye for detail and a penchant for crafting visually captivating designs, I thrive on embracing fresh challenges that broaden my skill set. I look forward to the exciting paths my passion for technology and design will pave for me in the future.</p>
 
 ## 💻 My Tech Stack
