@@ -40,7 +40,7 @@
         <br>
 <div align="center"  margin-top="10px">
     <a href = "https://github.com/howlil/">
-                <img src="https://github-profile-trophy.vercel.app/?username=howlil&column=-1&theme=tokyonight" />
+<!--                 <img src="https://github-profile-trophy.vercel.app/?username=howlil&column=-1&theme=tokyonight" /> -->
         <br>
         <br>
              <img src="https://github-readme-activity-graph.vercel.app/graph?username=howlil&theme=nightowl" />
@@ -51,14 +51,14 @@
 <br>
 <div align ="center" margin-top="10px">
      <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs?username=howlil&theme=tokyonight&show_icons=true&locale=en&layout=compact&langs_count=10" alt="howlil" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=howlil&theme=tokyonight&show_icons=true&locale=en&layout=compact&langs_count=10" alt="howlil" />
  </a>
 </div>
  <br>
 <div align ="center "  margin-top="10px">
     <a href = "https://github.com/howlil/">
-         <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=tokyonight" alt="howlil" />
-       <img  height="200em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=howlil&theme=tokyonight" alt="howlil" />
+         <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=tokyonight" alt="howlil" />
+       <img  height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=howlil&theme=tokyonight" alt="howlil" />
     </a>
 </div>
  <br>
