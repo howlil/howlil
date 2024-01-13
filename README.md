@@ -41,7 +41,7 @@
 
  <div align="center" margin-top="10px">
   <img height="210"  src="https://github-readme-stats.vercel.app/api/top-langs?username=howlil&theme=tokyonight&show_icons=true&locale=en&layout=compact&langs_count=10" alt="howlil" />
-         <img height="210em" align ="left" src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=tokyonight" alt="howlil" />
+         <img height="210em"  src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=tokyonight" alt="howlil" />
 <!--   <img  height="210" src="https://github-readme-streak-stats.herokuapp.com/?user=howlil&theme=tokyonight" alt="howlil" />  -->
 </div>
  <!--    <img height="170em" align ="left" src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=tokyonight" alt="howlil" /> -->
