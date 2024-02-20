@@ -10,31 +10,17 @@
 
 ## 💻 My Tech Stack
 
- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
- ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=white)
- ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=kali,cpp,java,py,php,js,ts,nodejs,react,redux,bootstrap,tailwind,materialui,css,html,express,nextjs,laravel,md,maven,mysql,postgres,postman,vite,npm,figma&theme=dark)](https://skillicons.dev)
 
 ## 🏆 GitHub Stats
-<div align="center" margin-top="10px">
-    <img src="https://komarev.com/ghpvc/?username=howlil&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="howlil" /> 
-</div>
+     
+[![](https://visitcount.itsvg.in/api?id=howlil&icon=1&color=6)](https://visitcount.itsvg.in)
 <br>
 
  <div align="center" margin-top="10px">
-  <img height="210"  src="https://github-readme-stats.vercel.app/api/top-langs?username=howlil&theme=tokyonight&show_icons=true&locale=en&layout=compact&langs_count=10" alt="howlil" />
+  <img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs?username=howlil&theme=tokyonight&show_icons=true&locale=en&layout=compact&langs_count=10" alt="howlil" />
 <!--          <img height="210em"  src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=tokyonight" alt="howlil" /> -->
-      <img height="210" src="https://github-readme-stats-eight-theta.vercel.app/api?username=howlil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=howlil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <!--   <img  height="210" src="https://github-readme-streak-stats.herokuapp.com/?user=howlil&theme=tokyonight" alt="howlil" />  -->
 </div>
  <!--    <img height="170em" align ="left" src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=tokyonight" alt="howlil" /> -->
