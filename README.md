@@ -10,7 +10,7 @@
 
 ## 💻 My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=kali,cpp,java,py,php,js,ts,nodejs,react,redux,bootstrap,tailwind,materialui,css,html,express,nextjs,laravel,md,maven,mysql,postgres,postman,vite,npm,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,tailwind,nextjs,md,mysql,postgres,postman,vite,figma&theme=dark)](https://skillicons.dev)
 
 ## 🏆 GitHub Stats
      
