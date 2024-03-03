@@ -29,11 +29,11 @@
    
 <div align="center"  margin-top="10px">
     <a href = "https://github.com/howlil/">
-<!--                 <img src="https://github-profile-trophy.vercel.app/?username=howlil&column=-1&theme=tokyonight" /> -->
+                <img src="https://github-profile-trophy.vercel.app/?username=howlil&column=-1&theme=tokyonight" /> 
         <br>
         <br>
-             <img src="https://github-readme-activity-graph.vercel.app/graph?username=howlil&theme=nightowl" />
-        <br>
+<!--              <img src="https://github-readme-activity-graph.vercel.app/graph?username=howlil&theme=nightowl" />
+        <br> -->
         <br>
     </a>
 </div>
