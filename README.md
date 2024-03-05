@@ -13,8 +13,12 @@
 [![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,react,tailwind,express,nextjs,md,mysql,postgres,postman,vite,vercel&theme=dark)](https://skillicons.dev)
 
 ## 🏆 GitHub Stats
+
+ <div align ="center">
      
 [![](https://visitcount.itsvg.in/api?id=howlil&icon=1&color=6)](https://visitcount.itsvg.in)
+[![wakatime](https://wakatime.com/badge/user/018b4364-815a-42cb-9de9-a58342cf7959.svg)](https://wakatime.com/@018b4364-815a-42cb-9de9-a58342cf7959)
+ </div>    
 <br>
 
  <div align="center" margin-top="10px">
