@@ -12,7 +12,7 @@
 
 <!--[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,js,ts,nodejs,react,tailwind,express,nextjs,aws,mysql,postgres,prisma,vite,vercel,kali&theme=dark)](https://skillicons.dev)-->
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,tailwind,express,nextjs,mysql,postgres,prisma,vite,vercel,kali&theme=dark)](https://skillicons.dev
+[My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,tailwind,express,nextjs,mysql,postgres,prisma,vite,vercel,kali&theme=dark)](https://skillicons.dev)
 
 ## 🏆 GitHub Stats
 
