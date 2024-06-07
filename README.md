@@ -2,6 +2,57 @@
 <h1 align="center">Hi 👋, I'm howlil</h1>
 
 <div align="center">
+    
+<style>
+    .container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100px;
+    }
+
+    .spacer {
+      width: 20px;
+    }
+
+    .fixed-text {
+      font-size: 43px;
+    }
+
+    .rotating-text {
+      font-size: 40px;
+      font-family: 'Horizon', Arial, sans-serif;
+      display: inline-block;
+      overflow: hidden;
+      height: 50px; /* Adjust height as needed */
+    }
+
+    .rotating-text span {
+      display: inline-block;
+      animation: rotateText 9s infinite linear;
+    }
+
+    @keyframes rotateText {
+      0%, 10% {
+        transform: translateY(0);
+      }
+      33%, 43% {
+        transform: translateY(-50px); /* Adjust height as needed */
+      }
+      66%, 76% {
+        transform: translateY(-100px); /* Adjust height as needed */
+      }
+    }
+  </style>
+  <div class="container">
+    <div class="spacer"></div>
+    <div class="fixed-text">Be</div>
+    <div class="spacer"></div>
+    <div class="rotating-text">
+      <span>AWESOME<br>OPTIMISTIC<br>DIFFERENT</span>
+    </div>
+  </div>
+<div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7006E&center=true&vCenter=true&width=435&lines=Mhd+Ulil+Abshar;2211521003;Andalas+University" alt="Typing SVG"/></a>
 </div>
 
