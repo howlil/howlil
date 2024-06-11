@@ -2,17 +2,21 @@
 <h1 align="center">Hi 👋, I'm howlil</h1>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7006E&center=true&vCenter=true&width=435&lines=Mhd+Ulil+Abshar;2211521003;Andalas+University" alt="Typing SVG"/></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7006E&center=true&vCenter=true&width=435&lines=Mhd+Ulil+Abshar;Software+Enginer;Machine+Learning" alt="Typing SVG"/></a>
 </div>
 
 <h3 align="center">Web Developer from Indonesia</h3>
-<p>As a second-year Information Systems student, I'm deeply passionate about programming,and design. My focus lies in expanding my expertise in machine learning and web programming. Besides, I devote my free time to engaging in graphic design projects. With a meticulous eye for detail and a penchant for crafting visually captivating designs, I thrive on embracing fresh challenges that broaden my skill set. I look forward to the exciting paths my passion for technology and design will pave for me in the future.</p>
+<p>As a second year student majoring in Information Systems I have a fervent passion for programming, with a particular
+zeal for Software Engineer and machine learning. I aspire to merge these two domains into something profoundly impactful in
+the future. With an insatiable curiosity, I constantly seek to explore new frontiers and stay abreast of the swift advancements
+in technology. My journey is one of continuous learning and innovation, fueled by a desire to contribute something meaningful
+to the world through my work.</p>
 
 ## 💻 My Tech Stack
 
 <!--[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,js,ts,nodejs,react,tailwind,express,nextjs,aws,mysql,postgres,prisma,vite,vercel,kali&theme=dark)](https://skillicons.dev)-->
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,tailwind,express,nextjs,mysql,postgres,prisma,vite,vercel,kali&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,tailwind,express,nextjs,mysql,postgres,prisma,vite,vercel,docker)](https://skillicons.dev)
 
 ## 🏆 GitHub Stats
 
@@ -38,8 +42,8 @@
                 <img src="https://github-profile-trophy.vercel.app/?username=howlil&column=-1&theme=tokyonight" /> 
         <br>
         <br>
-<!--              <img src="https://github-readme-activity-graph.vercel.app/graph?username=howlil&theme=nightowl" />
-        <br> -->
+             <img src="https://github-readme-activity-graph.vercel.app/graph?username=howlil&theme=github-compact" />
+        <br>
         <br>
     </a>
 </div>
