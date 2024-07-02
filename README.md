@@ -16,7 +16,7 @@ to the world through my work.</p>
 
 <!--[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,js,ts,nodejs,react,tailwind,express,nextjs,aws,mysql,postgres,prisma,vite,vercel,kali&theme=dark)](https://skillicons.dev)-->
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,tailwind,express,nextjs,mysql,postgres,prisma,vite,vercel,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind,express,nextjs,mysql,postgres,prisma,supabase,vite,vercel,docker,gcp)](https://skillicons.dev)
 
 ## 🏆 GitHub Stats
 
