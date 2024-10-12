@@ -1,16 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm howlil</h1>
+<h2 align="start">Hi 👋, I'm howlil</h2>
 
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7006E&center=true&vCenter=true&width=435&lines=Mhd+Ulil+Abshar;Software+Enginer;Machine+Learning" alt="Typing SVG"/></a>
-</div>
-
-<h3 align="center">Web Developer from Indonesia</h3>
-<p>As a second year student majoring in Information Systems I have a fervent passion for programming, with a particular
-zeal for Software Engineer and machine learning. I aspire to merge these two domains into something profoundly impactful in
-the future. With an insatiable curiosity, I constantly seek to explore new frontiers and stay abreast of the swift advancements
-in technology. My journey is one of continuous learning and innovation, fueled by a desire to contribute something meaningful
-to the world through my work.</p>
+<p>A third-year student in Information Systems with over 7 months of experience as a full-stack developer, with a stronger focus on front-end development using React. I have worked on four projects in the past year at two different companies, which have significantly enhanced my skills in software development, especially in creating dynamic and responsive user interfaces. I am looking for a position as a Software Developer Intern to further develop my skills and contribute to innovative projects.</p>
 
 ## 💻 My Tech Stack
 
