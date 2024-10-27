@@ -1,12 +1,14 @@
 
 <h2 align="start">Hi 👋, I'm howlil</h2>
 
-⚡ Fullstack Developer (JavaScript) | React.js Enthusiast
-🎯 Expertise: Frontend & Backend Development with a Strong Focus on React.js
-🏆 Interests: Machine Learning, Cybersecurity, and Cloud Infrastructure
-🛠️ Technical Skills: Fullstack Development, Cloud Computing, DevOps, Secure Code Practices
-🗡️ Problem Solver: Passionate about creating scalable, secure, and performant web applications
-🔥 Current Learn : Kotlin Jetpack Compose, React Native
+<span>⚡ Fullstack Developer (JavaScript) | React.js Enthusiast</span><br>
+<span>🎯 Expertise: Frontend & Backend Development with a Strong Focus on React.js</span><br>
+<span>🏆 Interests: Machine Learning, Cybersecurity, and Cloud Infrastructure</span><br>
+<span>🛠️ Technical Skills: Fullstack Development, Cloud Computing, DevOps, Secure Code Practices</span><br>
+<span>🗡️ Problem Solver: Passionate about creating scalable, secure, and performant web applications</span><br>
+<span>🔥 Current Learn: Kotlin Jetpack Compose, React Native</span>
+
+
 
 ## 💻 My Tech Stack
 
