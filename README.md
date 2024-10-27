@@ -1,13 +1,18 @@
 
 <h2 align="start">Hi 👋, I'm howlil</h2>
 
-<p>A third-year student in Information Systems with over 7 months of experience as a full-stack developer, with a stronger focus on front-end development using React. I have worked on four projects in the past year at two different companies, which have significantly enhanced my skills in software development, especially in creating dynamic and responsive user interfaces. I am looking for a position as a Software Developer Intern to further develop my skills and contribute to innovative projects.</p>
+⚡ Fullstack Developer (JavaScript) | React.js Enthusiast
+🎯 Expertise: Frontend & Backend Development with a Strong Focus on React.js
+🏆 Interests: Machine Learning, Cybersecurity, and Cloud Infrastructure
+🛠️ Technical Skills: Fullstack Development, Cloud Computing, DevOps, Secure Code Practices
+🗡️ Problem Solver: Passionate about creating scalable, secure, and performant web applications
+🔥 Current Learn : Kotlin Jetpack Compose, React Native
 
 ## 💻 My Tech Stack
 
 <!--[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,js,ts,nodejs,react,tailwind,express,nextjs,aws,mysql,postgres,prisma,vite,vercel,kali&theme=dark)](https://skillicons.dev)-->
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,ts,js,java,kotlin,react,vue,tailwind,mui,express,nextjs,mysql,postgres,prisma,supabase,firebase,docker,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,ts,js,java,kotlin,react,vue,tailwind,mui,express,nextjs,mysql,postgres,prisma,supabase,firebase,docker,gcp,kubernetes,terraform,digitalocean)](https://skillicons.dev)
 
 ## 🏆 GitHub Stats
 
