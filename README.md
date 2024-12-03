@@ -4,7 +4,6 @@
 <span>⚡ Fullstack Developer (JavaScript) | React.js Enthusiast</span><br>
 <span>🎯 Expertise: Frontend & Backend Development with a Strong Focus on React.js</span><br>
 <span>🏆 Interests: Machine Learning, Cybersecurity, and Cloud Infrastructure</span><br>
-<span>🛠️ Technical Skills: Fullstack Development, Cloud Computing, DevOps, Secure Code Practices</span><br>
 <span>🗡️ Problem Solver: Passionate about creating scalable, secure, and performant web applications</span><br>
 <span>🔥 Current Learn: Kotlin Jetpack Compose, React Native</span>
 
@@ -14,7 +13,7 @@
 
 <!--[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,js,ts,nodejs,react,tailwind,express,nextjs,aws,mysql,postgres,prisma,vite,vercel,kali&theme=dark)](https://skillicons.dev)-->
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,ts,js,java,kotlin,react,vue,tailwind,mui,express,nextjs,mysql,postgres,prisma,supabase,firebase,docker,gcp,kubernetes,terraform,digitalocean)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,ts,js,java,kotlin,react,vue,tailwind,mui,express,flask,nextjs,mysql,postgres,prisma,supabase,firebase,docker,gcp,kubernetes,terraform,digitalocean)](https://skillicons.dev)
 
 ## 🏆 GitHub Stats
 
