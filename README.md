@@ -13,7 +13,7 @@
 
 <!--[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,js,ts,nodejs,react,tailwind,express,nextjs,aws,mysql,postgres,prisma,vite,vercel,kali&theme=dark)](https://skillicons.dev)-->
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,ts,js,java,kotlin,react,vue,tailwind,mui,express,flask,nextjs,mysql,postgres,prisma,supabase,firebase,docker,gcp,kubernetes,terraform,digitalocean)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,go,ts,js,java,kotlin,react,astro,vue,tailwind,nestjs,express,fastapi,flask,nextjs,spring,mysql,postgres,prisma,supabase,firebase,docker,gcp,prometheus,kubernetes,kafka,jenkins,grafana,terraform,debian,bash,githubactions)](https://skillicons.dev)
 
 ## 🏆 GitHub Stats
 
