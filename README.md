@@ -1,12 +1,9 @@
 
 <h2 align="start">Hi 👋, I'm howlil</h2>
 
-<span>⚡ Fullstack Developer (JavaScript) | React.js Enthusiast</span><br>
-<span>🎯 Expertise: Frontend & Backend Development with a Strong Focus on React.js</span><br>
-<span>🏆 Interests: Machine Learning, Cybersecurity, and Cloud Infrastructure</span><br>
-<span>🗡️ Problem Solver: Passionate about creating scalable, secure, and performant web applications</span><br>
-<span>🔥 Current Learn: Kotlin Jetpack Compose, React Native</span>
-
+<span>⚡ Software Engineer Backend</span><br>
+<span>🎯 Expertise: Backend Development, but also comfortable with frontend </span><br>
+<span>🏆 Interests: Devops Infrastructure , Machine Learning and AI Engineer</span><br>
 
 
 ## 💻 My Tech Stack
@@ -37,7 +34,7 @@
   <br>
    
 <div align="center"  margin-top="10px">
-                <img src="https://github-profile-trophy.vercel.app/?username=howlil&column=-1&theme=tokyonight" /> 
+                <!-- <img src="https://github-profile-trophy.vercel.app/?username=howlil&column=-1&theme=tokyonight" />  -->
         
 </div>
              <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=howlil&theme=github-compact" /> -->
@@ -59,13 +56,6 @@
  
 
 
-## ✨ Find me on social media:
-  <p align = "center">
-      <a href="https://www.linkedin.com/in/mhdulilabshar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-      <a href="https://www.instagram.com/mraulabsr " target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-      <a href="https://open.spotify.com/user/z4ev34sfeu2es0va2z906y0cx " target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
-      <a href="mailto:mhdulilabshar27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  </p>
 
 
 
