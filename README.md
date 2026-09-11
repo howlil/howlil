@@ -1,61 +1,29 @@
+# Hi, I'm Howlil
 
-<h2 align="start">Hi 👋, I'm howlil</h2>
+Software Engineer focused on backend systems, with hands-on experience across frontend and infrastructure.
 
-<span>⚡ Software Engineer Backend</span><br>
-<span>🎯 Expertise: Backend Development, but also comfortable with frontend </span><br>
-<span>🏆 Interests: Devops Infrastructure , Machine Learning and AI Engineer</span><br>
+I like building software where state, persistence, reliability, and system behavior matter—not just wiring frameworks together. My current interests include backend engineering, distributed systems, databases, infrastructure, reliability, and applied AI.
 
+## Selected Projects
 
-## 💻 My Tech Stack
+| Project | What it is | Engineering highlights | Stack |
+| --- | --- | --- | --- |
+| [**Wago**](https://github.com/howlil/wago) | Lightweight, self-hosted WhatsApp gateway for integrating one WhatsApp account with an existing backend. | Idempotent outbound delivery, durable signed webhooks with retry and restart recovery, separate human/machine authentication, persistent SQLite state, health/readiness checks. | TypeScript, React, SQLite, Docker |
+| [**Notespace**](https://github.com/howlil/notespace) | Self-hosted knowledge workspace for structured notes, spatial thinking, and deliberate study. | Serialized autosave, versioned writes, conflict handling, same-browser Canvas synchronization, transactional backup/restore, durable self-hosted storage. | Go, React, TypeScript, SQLite |
+| [**Minang Language**](https://github.com/howlil/minang-lang) | Small programming language and interpreter using Minang-language keywords. | Lexer → parser → AST → interpreter pipeline, REPL, control flow, functions, recursion, and language-level error handling. | C++17 |
 
-<!--[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,js,ts,nodejs,react,tailwind,express,nextjs,aws,mysql,postgres,prisma,vite,vercel,kali&theme=dark)](https://skillicons.dev)-->
+## Engineering Focus
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,go,ts,js,java,kotlin,react,astro,vue,tailwind,nestjs,express,fastapi,flask,nextjs,spring,mysql,postgres,prisma,supabase,firebase,docker,gcp,prometheus,kubernetes,kafka,jenkins,grafana,terraform,debian,bash,githubactions)](https://skillicons.dev)
+- **Backend & systems:** API design, concurrency, persistence, failure handling, reliability
+- **Data:** PostgreSQL, MySQL, SQLite
+- **Infrastructure:** Docker, Linux, GitHub Actions, observability fundamentals
+- **Frontend:** React and TypeScript when the product needs an application layer
+- **Currently exploring:** distributed systems, platform engineering, infrastructure, and applied AI
 
-## 🏆 GitHub Stats
+## Core Technologies
 
- <div align ="center">
+`Go` · `TypeScript` · `JavaScript` · `Python` · `C++` · `React` · `PostgreSQL` · `MySQL` · `SQLite` · `Docker` · `Linux` · `GitHub Actions`
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@howlil/c5ca24d4-d1ec-4b3a-95ac-507c78e14664.png" /></a>
+## Activity
 
-
-[![wakatime](https://wakatime.com/badge/user/018b4364-815a-42cb-9de9-a58342cf7959.svg)](https://wakatime.com/@018b4364-815a-42cb-9de9-a58342cf7959)
- </div>    
-<br>
-
- <div align="center" margin-top="10px">
-  <!-- <img height="180"  src="https://github-readme-stats.vercel.app/api/top-langs?username=howlil&theme=tokyonight&show_icons=true&locale=en&layout=compact&langs_count=6" alt="howlil" /> -->
-<!--          <img height="210em"  src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=tokyonight" alt="howlil" /> -->
-      <!-- <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=howlil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
-   <img  height="210" src="https://github-readme-streak-stats.herokuapp.com/?user=howlil&theme=tokyonight" alt="howlil" /> 
-</div>
- <!--    <img height="170em" align ="left" src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=tokyonight" alt="howlil" /> -->
-
-  <br>
-   
-<div align="center"  margin-top="10px">
-                <!-- <img src="https://github-profile-trophy.vercel.app/?username=howlil&column=-1&theme=tokyonight" />  -->
-        
-</div>
-             <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=howlil&theme=github-compact" /> -->
-<br>
-
-<div align="center">
- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@howlil/89dc2638-18a4-4561-9638-14ae0efbd2bc.png" /></a>
-
-</div>
-
-<br>
-<!--START_SECTION:-->
-<!--END_SECTION:-->
-
-
-
-
-<!--          <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=howlil&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=tokyonight" alt="howlil" /> -->
- 
-
-
-
-
-
+[![WakaTime](https://wakatime.com/badge/user/018b4364-815a-42cb-9de9-a58342cf7959.svg)](https://wakatime.com/@018b4364-815a-42cb-9de9-a58342cf7959)
