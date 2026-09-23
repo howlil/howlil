@@ -1,55 +1,57 @@
 <h2 align="start">Hi 👋, I'm Howlil</h2>
 
-**Software Engineer — backend-focused, comfortable across frontend and infrastructure.**
+**Software Engineer — backend-focused, comfortable across product and infrastructure.**
 
-I like building software where state, persistence, failure handling, reliability, and system behavior matter—not just wiring frameworks together. My strongest interest is backend engineering, with growing depth in distributed systems, databases, infrastructure, platform engineering, and applied AI.
+I build software where state, persistence, failure handling, reliability, and system behavior matter. My main focus is backend and systems engineering, with growing depth in databases, distributed systems, infrastructure, platform engineering, and applied AI.
 
-## 🧭 Engineering Map
+## Engineering Focus
 
 ```text
 Software Engineering
 │
-├── Backend & Systems  ← primary focus
-│   ├── Go · TypeScript/Node.js · Java/Spring
+├── Backend & Systems
+│   ├── Go · TypeScript/Node.js · Java
 │   ├── API design · authentication · concurrency
-│   ├── idempotency · retries · failure handling
+│   ├── transactions · idempotency · retries
 │   └── reliability · observability · production behavior
 │
 ├── Data & Persistence
 │   ├── PostgreSQL · MySQL/MariaDB · SQLite
-│   └── schema design · transactions · migrations · indexing
+│   └── schema design · migrations · indexing · consistency
 │
-├── Infrastructure & Delivery
+├── Infrastructure
 │   ├── Docker · Linux · GitHub Actions
-│   └── Kubernetes · Terraform · GCP · Prometheus · Grafana
+│   └── cloud · deployment · reverse proxies · monitoring
 │
-├── Frontend / Product Layer
-│   ├── React · TypeScript · Vite · Tailwind
-│   └── Astro · Vue · Next.js
-│
-└── CS & Applied AI
-    ├── C++ · Python · interpreter/compiler fundamentals
-    └── machine learning & applied AI experimentation
+└── Product & CS
+    ├── React · TypeScript · browser extensions
+    └── C++ · interpreters · applied AI experimentation
 ```
 
-## 💻 My Tech Stack
+## Selected Projects
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,go,ts,js,java,kotlin,react,astro,vue,tailwind,nestjs,express,fastapi,flask,nextjs,spring,mysql,postgres,prisma,supabase,firebase,docker,gcp,prometheus,kubernetes,kafka,jenkins,grafana,terraform,debian,bash,githubactions)](https://skillicons.dev)
+| Project | What it is | Engineering highlights |
+| --- | --- | --- |
+| [**Notespace**](https://github.com/howlil/notespace) | Self-hosted knowledge workspace for notes, spatial thinking, planning, and deliberate study. | Go + SQLite backend, granular versioned autosave, conflict handling, FTS repair, transactional backup/restore, durable assets, Docker deployment. |
+| [**Agentflow**](https://github.com/howlil/agentflow) | Documentation and runtime packages for reusable software-engineering agent skills. | Canonical skill source-of-truth, generated runtime references, Astro/Starlight static delivery, Cloudflare deployment. |
+| [**Sopflow**](https://github.com/howlil/sopflow) | TypeScript toolkit for modeling structured Standard Operating Procedures. | Framework-independent core engine, SOP graph modeling, validation, mutations, history, undo/redo, strict and draft operation batches. |
+| [**WhoBack**](https://github.com/howlil/whoback) | Chrome extension for analyzing Instagram follower relationships locally. | Manifest V3, resumable cursor-based scanning, checkpointing, conservative request pacing, rate-limit handling, local-only persistence. |
+| [**Minang Language**](https://github.com/howlil/minang-lang) | Educational programming language using Minang-language keywords. | C++17 lexer → parser → AST → interpreter pipeline, REPL, control flow, functions, recursion, and language-level errors. |
 
-## 🚀 Selected Projects
+## Tech
 
-| Project | What it is | Engineering highlights | Stack |
-| --- | --- | --- | --- |
-| [**Wago**](https://github.com/howlil/wago) | Lightweight self-hosted WhatsApp gateway for integrating one account with an existing backend. | Durable outbound state, idempotency, signed webhooks with retry/recovery, separated human/machine auth, health/readiness checks. | TypeScript, React, SQLite, Docker |
-| [**Notespace**](https://github.com/howlil/notespace) | Self-hosted knowledge workspace for notes, spatial thinking, and deliberate study. | Serialized/versioned autosave, conflict handling, cross-tab Canvas reconciliation, full-text search, transactional backup/restore. | Go, React, TypeScript, SQLite |
-| [**SOPFlow FTI**](https://github.com/howlil/sopflow-fti) | Workflow system for managing SOP documents from authoring through approval and signing. | NestJS workflow backend, MariaDB migrations, production bootstrap flow, SSE notifications, personal P12/PDF signing, Docker deployment. | NestJS, React, TypeScript, MariaDB, Prisma, Docker |
-| [**Chatspace**](https://github.com/howlil/chatspace) | Chromium extension that turns rendered ChatGPT conversations into a zoomable branch-aware canvas. | DOM → logical turn graph projection, stable message identity, branch persistence, streaming updates, privacy-conscious local metadata. | TypeScript, React, Chromium Extension |
-| [**Minang Language**](https://github.com/howlil/minang-lang) | Small programming language and interpreter using Minang-language keywords. | Lexer → parser → AST → interpreter pipeline, REPL, control flow, functions, recursion, language-level error handling. | C++17 |
+```text
+Languages     Go · TypeScript · Java · C++ · Python
+Backend       Node.js · Express · NestJS · Spring · REST APIs
+Data          PostgreSQL · MySQL/MariaDB · SQLite · Prisma
+Frontend      React · TypeScript · Tailwind
+Infra         Docker · Linux · GitHub Actions · Cloudflare
+```
 
-## 🔭 Current Direction
+## Current Direction
 
 Deepening **backend and systems engineering**: distributed systems, networking, databases, cloud/infrastructure, platform engineering, reliability, performance, and production engineering.
 
-## 📊 Activity
+## Activity
 
 [![WakaTime](https://wakatime.com/badge/user/018b4364-815a-42cb-9de9-a58342cf7959.svg)](https://wakatime.com/@018b4364-815a-42cb-9de9-a58342cf7959)
