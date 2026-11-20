@@ -1,56 +1,44 @@
-<h2 align="start">Hi 👋, I'm Howlil</h2>
+<h2 align="start">Hi, I'm Howlil</h2>
 
-**Software Engineer — backend-focused, comfortable across product and infrastructure.**
+**Software Engineer — backend & systems, native desktop, and applied AI.**
 
-I build software where state, persistence, failure handling, reliability, and system behavior matter. My main focus is backend and systems engineering, with growing depth in databases, distributed systems, infrastructure, platform engineering, and applied AI.
+I build software where data integrity, state, failure handling, and user experience meet. My primary direction is **backend and systems engineering**; I also build native Windows applications, developer tools, and AI-assisted products.
 
 ## Engineering Focus
 
-```text
-Software Engineering
-│
-├── Backend & Systems
-│   ├── Go · TypeScript/Node.js · Java
-│   ├── API design · authentication · concurrency
-│   ├── transactions · idempotency · retries
-│   └── reliability · observability · production behavior
-│
-├── Data & Persistence
-│   ├── PostgreSQL · MySQL/MariaDB · SQLite
-│   └── schema design · migrations · indexing · consistency
-│
-├── Infrastructure
-│   ├── Docker · Linux · GitHub Actions
-│   └── cloud · deployment · reverse proxies · monitoring
-│
-└── Product & CS
-    ├── React · TypeScript · browser extensions
-    └── C++ · interpreters · applied AI experimentation
-```
+- **Backend & distributed systems:** API design, concurrency, transactions, idempotency, data consistency, reliability, and observability.
+- **Data & persistence:** relational modeling, SQL, schema migrations, indexing, search, and backup/recovery.
+- **Native & product engineering:** Rust/Win32, Tauri, React, local-first application state, and accessible desktop interactions.
+- **Infrastructure & AI tooling:** Docker, CI/CD, cloud deployment, CLI/ACP integrations, and portable agent skills.
 
 ## Selected Projects
 
 | Project | What it is | Engineering highlights |
 | --- | --- | --- |
-| [**Notespace**](https://github.com/howlil/notespace) | Self-hosted knowledge workspace for notes, spatial thinking, planning, and deliberate study. | Go + SQLite backend, granular versioned autosave, conflict handling, FTS repair, transactional backup/restore, durable assets, Docker deployment. |
-| [**Agentflow**](https://github.com/howlil/agentflow) | Documentation and runtime packages for reusable software-engineering agent skills. | Canonical skill source-of-truth, generated runtime references, Astro/Starlight static delivery, Cloudflare deployment. |
-| [**Sopflow**](https://github.com/howlil/sopflow) | TypeScript toolkit for modeling structured Standard Operating Procedures. | Framework-independent core engine, SOP graph modeling, validation, mutations, history, undo/redo, strict and draft operation batches. |
-| [**WhoBack**](https://github.com/howlil/whoback) | Chrome extension for analyzing Instagram follower relationships locally. | Manifest V3, resumable cursor-based scanning, checkpointing, conservative request pacing, rate-limit handling, local-only persistence. |
-| [**Minang Language**](https://github.com/howlil/minang-lang) | Educational programming language using Minang-language keywords. | C++17 lexer → parser → AST → interpreter pipeline, REPL, control flow, functions, recursion, and language-level errors. |
+| [**Notespace**](https://github.com/howlil/notespace) | Self-hosted visual Canvas workspace, also available as a Windows desktop shell. | Go + SQLite, Excalidraw, versioned autosave, conflict recovery, full-text search, transactional backups, Docker. |
+| [**Otto OS**](https://github.com/howlil/otto-os) | Native Windows shell with a top bar, interactive notch, and floating Dock. | Rust workspace, Win32 integration, Direct2D/DirectWrite rendering, system events, geometry and motion policies. |
+| [**Otto**](https://github.com/howlil/otto) | Windows desktop AI assistant with contextual capture and multiple AI CLI backends. | Tauri 2 + Rust + React, CLI/ACP adapters, streaming, local conversation history, permissions, native E2E. |
+| [**Nox**](https://github.com/howlil/nox) | AI learning companion for Obsidian. | Context-aware explanation, interactive practice, goal-based learning plans, local progress, approval-gated note edits. |
+| [**Sopflow**](https://github.com/howlil/sopflow) | Reusable TypeScript toolkit for authoring and visualizing Standard Operating Procedures. | Framework-independent graph core, schema validation, operations and undo/redo, diagram and React packages. |
+| [**Agentflow**](https://github.com/howlil/agentflow) | Open-source engineering skill library for coding agents. | Decision router + seven specialists, explicit handoffs, verification contracts, portable skill distribution. |
+| [**Goat Skill**](https://github.com/howlil/goat-skill) | Portable product and frontend-design skills for AI coding hosts (in development). | Canonical skill sources, cross-host plugin manifests, progressive disclosure, static validation. |
 
-## Tech
+**Also exploring:** [ClipLingo](https://github.com/howlil/cliplingo), a native Windows contextual translation popup. The repository currently contains a Win32/C++20 foundation and a design prototype; translation and capture are not yet implemented.
+
+Earlier work: [WhoBack](https://github.com/howlil/whoback) · [Minang Language](https://github.com/howlil/minang-lang)
+
+## Tech Stack
 
 ```text
-Languages     Go · TypeScript · Java · C++ · Python
-Backend       Node.js · Express · NestJS · Spring · REST APIs
+Languages     Go · TypeScript/JavaScript · Rust · Java · C++ · Python
+Backend       Go · Node.js · Express · NestJS · REST APIs
 Data          PostgreSQL · MySQL/MariaDB · SQLite · Prisma
-Frontend      React · TypeScript · Tailwind
+Desktop/UI    Win32 · Tauri 2 · React · Vite · Tailwind CSS
 Infra         Docker · Linux · GitHub Actions · Cloudflare
+AI tooling    CLI/ACP integrations · agent skills · LLM workflows
 ```
 
-## Current Direction
-
-Deepening **backend and systems engineering**: distributed systems, networking, databases, cloud/infrastructure, platform engineering, reliability, performance, and production engineering.
+Currently deepening **Java 21 / Spring Boot**, distributed systems, database internals, networking, performance, and production engineering.
 
 ## Activity
 
